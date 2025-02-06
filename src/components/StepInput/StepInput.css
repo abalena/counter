@@ -1,0 +1,14 @@
+.Title {
+  margin-bottom: 8px;
+  font-size: 16px;
+  line-height: 20px;
+  color: var(--dark-grey);
+}
+.Input {
+  padding: 12px 16px;
+  width: 111px;
+  font-size: 16px;
+  line-height: 20px;
+  border-radius: 60px;
+  background-color: var(--light-grey);
+}
